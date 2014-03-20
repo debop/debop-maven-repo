@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.debop4s</groupId>
+  <artifactId>debop4s-autocomplete</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140315045042</lastUpdated>
+  </versioning>
+</metadata>
